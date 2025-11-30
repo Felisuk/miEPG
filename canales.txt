@@ -1,6 +1,6 @@
 La 7 Murcia,ES | La 7 TV REGIÓN Murcia ᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png
 Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
 SkyShowtime,ES | SkyShowtime 1 FHDᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
-DARK,ES | DARK HD RAW,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
-1+1 International,ES | 1+1 International RAW,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png
-Dreamworks HD,ES | Dreamwork RAW,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png
+DARK,ES | DARK HDᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
+1+1 International,ES | 1+1 Internationalᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png
+Dreamworks HD,ES | Dream workᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png
