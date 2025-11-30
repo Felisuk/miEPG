@@ -2,5 +2,5 @@ La 7 Murcia,ES | La 7 TV REGIÓN Murcia ᴿᴬᵂ,https://raw.githubusercontent.
 Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
 SkyShowtime,ES | SkyShowtime 1 FHDᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
 DARK,ES| DARK HD ᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
-1+1 International,ES| 1+1International ᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png
+1+1 International,ES| 1+1 INTERNACIONAL ᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png
 Dreamworks HD,ES| Dream work ᴿᴬᵂ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png
