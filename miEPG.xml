@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 30/11/2025 19:08" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 30/11/2025 19:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES | La 7 TV REGIÓN Murcia ᴿᴬᵂ">
     <display-name>ES | La 7 TV REGIÓN Murcia ᴿᴬᵂ</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png" />
@@ -16,8 +16,8 @@
     <display-name>ES| DARK HD ᴿᴬᵂ</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" />
   </channel>
-  <channel id="ES| 1+1 International ᴿᴬᵂ">
-    <display-name>ES| 1+1 International ᴿᴬᵂ</display-name>
+  <channel id="ES| 1+1International ᴿᴬᵂ">
+    <display-name>ES| 1+1International ᴿᴬᵂ</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png" />
   </channel>
   <channel id="ES| Dream work ᴿᴬᵂ">
@@ -3916,542 +3916,542 @@
 · Dirección: Randy Van Dyke.
 · Reparto: Annabel Barrett, Ryan Q. Tran, Shay Denison, Katy Dore, Ignacyo Matynia.</desc>
   </programme>
-  <programme start="20251130022000 +0000" stop="20251130034000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130022000 +0000" stop="20251130034000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out E436823627</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251130034000 +0000" stop="20251130035000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130034000 +0000" stop="20251130035000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Awaits Discovery E436823628</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251130035000 +0000" stop="20251130060500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130035000 +0000" stop="20251130060500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Celeb's Stories E436823629</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251130060500 +0000" stop="20251130100500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130060500 +0000" stop="20251130100500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out E437112847</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251130100500 +0000" stop="20251130142500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130100500 +0000" stop="20251130142500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>SIGN OFF</title>
     <desc>Unterhaltung
 · Sign off.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251130142500 +0000" stop="20251130173000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130142500 +0000" stop="20251130173000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Country of Incredible People E437112857</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251130173000 +0000" stop="20251130180000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130173000 +0000" stop="20251130180000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>TSN News E437112858</title>
     <desc>Nachrichten
 · News.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251130180000 +0000" stop="20251130190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130180000 +0000" stop="20251130190000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon E437112859</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251130190000 +0000" stop="20251130220000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130190000 +0000" stop="20251130220000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>I Can Not Forget You</title>
     <desc>Drama Serie</desc>
   </programme>
-  <programme start="20251130220000 +0000" stop="20251130235000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130220000 +0000" stop="20251130235000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Мarichka (author's program, interview) E437112861</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251130235000 +0000" stop="20251201022000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251130235000 +0000" stop="20251201022000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon E437112862</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251201022000 +0000" stop="20251201040000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201022000 +0000" stop="20251201040000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>SIGN OFF</title>
     <desc>Unterhaltung
 · Sign off.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251201040000 +0000" stop="20251201043000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201040000 +0000" stop="20251201043000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Useful Hints</title>
     <desc>Varieté</desc>
   </programme>
-  <programme start="20251201043000 +0000" stop="20251201083000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201043000 +0000" stop="20251201083000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Breakfast With 1 Plus 1</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251201083000 +0000" stop="20251201100000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201083000 +0000" stop="20251201100000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Celeb's Stories</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251201100000 +0000" stop="20251201113000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201100000 +0000" stop="20251201113000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Family Melodramas</title>
     <desc>Reality
 · País: Ucrania</desc>
   </programme>
-  <programme start="20251201113000 +0000" stop="20251201123500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201113000 +0000" stop="20251201123500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251201123500 +0000" stop="20251201133000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201123500 +0000" stop="20251201133000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251201133000 +0000" stop="20251201150500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201133000 +0000" stop="20251201150500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The School</title>
     <desc>Drama Serie
 · País: Tailandia</desc>
   </programme>
-  <programme start="20251201150500 +0000" stop="20251201155000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201150500 +0000" stop="20251201155000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251201155000 +0000" stop="20251201173000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201155000 +0000" stop="20251201173000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Police by Call</title>
     <desc>Drama Serie</desc>
   </programme>
-  <programme start="20251201173000 +0000" stop="20251201180000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201173000 +0000" stop="20251201180000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>TSN News</title>
     <desc>Nachrichten
 · News.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251201180000 +0000" stop="20251201190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201180000 +0000" stop="20251201190000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251201190000 +0000" stop="20251201204000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201190000 +0000" stop="20251201204000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Bobrynsky's House</title>
     <desc>Gesellschaft</desc>
   </programme>
-  <programme start="20251201204000 +0000" stop="20251201213500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201204000 +0000" stop="20251201213500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251201213500 +0000" stop="20251201224500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201213500 +0000" stop="20251201224500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Мarichka (author's program, interview)</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251201224500 +0000" stop="20251202020000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251201224500 +0000" stop="20251202020000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251202020000 +0000" stop="20251202030500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202020000 +0000" stop="20251202030500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251202030500 +0000" stop="20251202040000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202030500 +0000" stop="20251202040000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251202040000 +0000" stop="20251202043000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202040000 +0000" stop="20251202043000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Useful Hints E421236421</title>
     <desc>Varieté</desc>
   </programme>
-  <programme start="20251202043000 +0000" stop="20251202083000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202043000 +0000" stop="20251202083000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Breakfast With 1 Plus 1 E421236422</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251202083000 +0000" stop="20251202095500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202083000 +0000" stop="20251202095500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Celeb's Stories E421236423</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251202095500 +0000" stop="20251202112500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202095500 +0000" stop="20251202112500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Family Melodramas E421236424</title>
     <desc>Reality
 · País: Ucrania</desc>
   </programme>
-  <programme start="20251202112500 +0000" stop="20251202122500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202112500 +0000" stop="20251202122500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251202122500 +0000" stop="20251202131500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202122500 +0000" stop="20251202131500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out E437112863</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251202131500 +0000" stop="20251202145500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202131500 +0000" stop="20251202145500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The School</title>
     <desc>Drama Serie
 · País: Tailandia</desc>
   </programme>
-  <programme start="20251202145500 +0000" stop="20251202155000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202145500 +0000" stop="20251202155000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251202155000 +0000" stop="20251202173000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202155000 +0000" stop="20251202173000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Police by Call</title>
     <desc>Drama Serie</desc>
   </programme>
-  <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>TSN News</title>
     <desc>Nachrichten
 · News.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251202180000 +0000" stop="20251202190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202180000 +0000" stop="20251202190000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251202190000 +0000" stop="20251202204000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202190000 +0000" stop="20251202204000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Bobrynsky's House</title>
     <desc>Gesellschaft</desc>
   </programme>
-  <programme start="20251202204000 +0000" stop="20251202213000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202204000 +0000" stop="20251202213000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251202213000 +0000" stop="20251202225500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202213000 +0000" stop="20251202225500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Мarichka (author's program, interview)</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251202225500 +0000" stop="20251203015000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251202225500 +0000" stop="20251203015000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251203015000 +0000" stop="20251203025000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203015000 +0000" stop="20251203025000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251203025000 +0000" stop="20251203040000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203025000 +0000" stop="20251203040000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Useful Hints</title>
     <desc>Varieté</desc>
   </programme>
-  <programme start="20251203043000 +0000" stop="20251203083000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203043000 +0000" stop="20251203083000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Breakfast With 1 Plus 1</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251203083000 +0000" stop="20251203095000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203083000 +0000" stop="20251203095000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Celeb's Stories</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251203095000 +0000" stop="20251203112000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203095000 +0000" stop="20251203112000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Family Melodramas</title>
     <desc>Reality
 · País: Ucrania</desc>
   </programme>
-  <programme start="20251203112000 +0000" stop="20251203122500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203112000 +0000" stop="20251203122500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251203122500 +0000" stop="20251203133000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203122500 +0000" stop="20251203133000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251203133000 +0000" stop="20251203151000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203133000 +0000" stop="20251203151000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The School</title>
     <desc>Drama Serie
 · País: Tailandia</desc>
   </programme>
-  <programme start="20251203151000 +0000" stop="20251203160000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203151000 +0000" stop="20251203160000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251203160000 +0000" stop="20251203173000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203160000 +0000" stop="20251203173000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Police by Call</title>
     <desc>Drama Serie</desc>
   </programme>
-  <programme start="20251203173000 +0000" stop="20251203180000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203173000 +0000" stop="20251203180000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>TSN News</title>
     <desc>Nachrichten
 · News.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251203180000 +0000" stop="20251203190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203180000 +0000" stop="20251203190000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251203190000 +0000" stop="20251203204000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203190000 +0000" stop="20251203204000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Bobrynsky's House</title>
     <desc>Gesellschaft</desc>
   </programme>
-  <programme start="20251203204000 +0000" stop="20251203213500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203204000 +0000" stop="20251203213500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251203213500 +0000" stop="20251203225000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203213500 +0000" stop="20251203225000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Мarichka (author's program, interview)</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251203225000 +0000" stop="20251204015500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251203225000 +0000" stop="20251204015500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251204015500 +0000" stop="20251204025500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204015500 +0000" stop="20251204025500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251204025500 +0000" stop="20251204040000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204025500 +0000" stop="20251204040000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251204040000 +0000" stop="20251204043000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204040000 +0000" stop="20251204043000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Useful Hints</title>
     <desc>Varieté</desc>
   </programme>
-  <programme start="20251204043000 +0000" stop="20251204083000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204043000 +0000" stop="20251204083000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Breakfast With 1 Plus 1</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251204083000 +0000" stop="20251204100000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204083000 +0000" stop="20251204100000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Celeb's Stories</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251204100000 +0000" stop="20251204113000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204100000 +0000" stop="20251204113000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Family Melodramas</title>
     <desc>Reality
 · País: Ucrania</desc>
   </programme>
-  <programme start="20251204113000 +0000" stop="20251204123500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204113000 +0000" stop="20251204123500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251204123500 +0000" stop="20251204132500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204123500 +0000" stop="20251204132500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251204132500 +0000" stop="20251204150500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204132500 +0000" stop="20251204150500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The School</title>
     <desc>Drama Serie
 · País: Tailandia</desc>
   </programme>
-  <programme start="20251204150500 +0000" stop="20251204155500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204150500 +0000" stop="20251204155500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251204155500 +0000" stop="20251204170000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204155500 +0000" stop="20251204170000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Police by Call</title>
     <desc>Drama Serie</desc>
   </programme>
-  <programme start="20251204170000 +0000" stop="20251204180000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204170000 +0000" stop="20251204180000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>TSN News</title>
     <desc>Nachrichten
 · News.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251204180000 +0000" stop="20251204190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204180000 +0000" stop="20251204190000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251204190000 +0000" stop="20251204204000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204190000 +0000" stop="20251204204000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Bobrynsky's House</title>
     <desc>Gesellschaft</desc>
   </programme>
-  <programme start="20251204204000 +0000" stop="20251204213500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204204000 +0000" stop="20251204213500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251204213500 +0000" stop="20251204223500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204213500 +0000" stop="20251204223500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Мarichka (author's program, interview)</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251204223500 +0000" stop="20251205020500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251204223500 +0000" stop="20251205020500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251205020500 +0000" stop="20251205031000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205020500 +0000" stop="20251205031000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251205031000 +0000" stop="20251205040000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205031000 +0000" stop="20251205040000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251205040000 +0000" stop="20251205043000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205040000 +0000" stop="20251205043000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Useful Hints</title>
     <desc>Varieté</desc>
   </programme>
-  <programme start="20251205043000 +0000" stop="20251205083000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205043000 +0000" stop="20251205083000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Breakfast With 1 Plus 1</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251205083000 +0000" stop="20251205100500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205083000 +0000" stop="20251205100500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Celeb's Stories</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251205100500 +0000" stop="20251205113500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205100500 +0000" stop="20251205113500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Family Melodramas</title>
     <desc>Reality
 · País: Ucrania</desc>
   </programme>
-  <programme start="20251205113500 +0000" stop="20251205123500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205113500 +0000" stop="20251205123500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251205123500 +0000" stop="20251205144500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205123500 +0000" stop="20251205144500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251205144500 +0000" stop="20251205153500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205144500 +0000" stop="20251205153500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251205153500 +0000" stop="20251205163000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205153500 +0000" stop="20251205163000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Real History</title>
     <desc>Dokumentation</desc>
   </programme>
-  <programme start="20251205163000 +0000" stop="20251205173000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205163000 +0000" stop="20251205173000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251205173000 +0000" stop="20251205190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205173000 +0000" stop="20251205190000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251205190000 +0000" stop="20251205202500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205190000 +0000" stop="20251205202500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Mosechuk</title>
     <desc>Varieté</desc>
   </programme>
-  <programme start="20251205202500 +0000" stop="20251205205000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205202500 +0000" stop="20251205205000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Real History</title>
     <desc>Dokumentation</desc>
   </programme>
-  <programme start="20251205205000 +0000" stop="20251205214000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205205000 +0000" stop="20251205214000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The Whole Country is Talking</title>
     <desc>Talkshow</desc>
   </programme>
-  <programme start="20251205214000 +0000" stop="20251206014000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251205214000 +0000" stop="20251206014000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251206014000 +0000" stop="20251206015000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206014000 +0000" stop="20251206015000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251206015000 +0000" stop="20251206025000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206015000 +0000" stop="20251206025000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Married at First Sight</title>
     <desc>Reality,Romanze | +12
 · Couples matched on a range of scientific and sociological criteria enter into a legal marriage with a complete stranger, and attempt to build a stable and loving relationship.
 · País: Reino Unido
 · Reparto: Mel Schilling, Paul Carrick Brunson, Charlene Douglas.</desc>
   </programme>
-  <programme start="20251206025000 +0000" stop="20251206034500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206025000 +0000" stop="20251206034500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251206034500 +0000" stop="20251206035500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206034500 +0000" stop="20251206035500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Awaits Discovery</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251206035500 +0000" stop="20251206061000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206035500 +0000" stop="20251206061000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Celeb's Stories</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251206061000 +0000" stop="20251206101000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206061000 +0000" stop="20251206101000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>The World Inside Out</title>
     <desc>Reise</desc>
   </programme>
-  <programme start="20251206101000 +0000" stop="20251206143000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206101000 +0000" stop="20251206143000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>SIGN OFF</title>
     <desc>Unterhaltung
 · Sign off.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251206143000 +0000" stop="20251206173000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206143000 +0000" stop="20251206173000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>I Can Not Forget You</title>
     <desc>Drama Serie</desc>
   </programme>
-  <programme start="20251206173000 +0000" stop="20251206180000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206173000 +0000" stop="20251206180000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>TSN News</title>
     <desc>Nachrichten
 · News.
 · País: Estados Unidos</desc>
   </programme>
-  <programme start="20251206180000 +0000" stop="20251206190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206180000 +0000" stop="20251206190000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Unated News Marathon E421236417</title>
     <desc>Nachrichten</desc>
   </programme>
-  <programme start="20251206190000 +0000" stop="20251206215000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206190000 +0000" stop="20251206215000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Country of Incredible People</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251206215000 +0000" stop="20251207002500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251206215000 +0000" stop="20251207002500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title>Мarichka (author's program, interview)</title>
     <desc>Unterhaltung</desc>
   </programme>
-  <programme start="20251128003000 +0000" stop="20251128021500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128003000 +0000" stop="20251128021500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Cały kraj mówi</title>
   </programme>
-  <programme start="20251128021500 +0000" stop="20251128033000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128021500 +0000" stop="20251128033000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Ślepe małżeństwo 4. 3 c</title>
   </programme>
-  <programme start="20251128033000 +0000" stop="20251128033500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128033000 +0000" stop="20251128033500 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Żywoty znanych osobistości 9. 59 w</title>
   </programme>
-  <programme start="20251128033500 +0000" stop="20251128043000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128033500 +0000" stop="20251128043000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Życiorysy znanych osób</title>
   </programme>
-  <programme start="20251128043000 +0000" stop="20251128083000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128043000 +0000" stop="20251128083000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Śniadanie w grupie 1+1. Program informacyjno-rozrywkowy</title>
   </programme>
-  <programme start="20251128083000 +0000" stop="20251128101000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128083000 +0000" stop="20251128101000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Zmieniam żonę</title>
   </programme>
-  <programme start="20251128101000 +0000" stop="20251128150000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128101000 +0000" stop="20251128150000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">t/s Lekarz kobiet. Nowe życie, XI-XV w</title>
   </programme>
-  <programme start="20251128150000 +0000" stop="20251128160000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128150000 +0000" stop="20251128160000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Świat na wylot. Ukraina</title>
   </programme>
-  <programme start="20251128160000 +0000" stop="20251128170000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128160000 +0000" stop="20251128170000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Świat na wylot. Ukraina</title>
   </programme>
-  <programme start="20251128170000 +0000" stop="20251128191000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128170000 +0000" stop="20251128191000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">h/f Misja niemożliwa</title>
   </programme>
-  <programme start="20251128191000 +0000" stop="20251128213000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128191000 +0000" stop="20251128213000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">h/f Misja niemożliwa 2</title>
   </programme>
-  <programme start="20251128213000 +0000" stop="20251129000000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251128213000 +0000" stop="20251129000000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">h/f Titanic</title>
   </programme>
-  <programme start="20251129011000 +0000" stop="20251129050000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251129011000 +0000" stop="20251129050000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Świat na wylot</title>
   </programme>
-  <programme start="20251129050000 +0000" stop="20251129130000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251129050000 +0000" stop="20251129130000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Świat na wylot</title>
   </programme>
-  <programme start="20251129130000 +0000" stop="20251129170000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251129130000 +0000" stop="20251129170000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">h/f Komitet Batkowski, 1-4 w</title>
   </programme>
-  <programme start="20251129170000 +0000" stop="20251129190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251129170000 +0000" stop="20251129190000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">kwadrans wieczorny, 23 s-n 10 w</title>
   </programme>
-  <programme start="20251129190000 +0000" stop="20251129210000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251129190000 +0000" stop="20251129210000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Kwadrans wieczorny, 23 s-n 11 w</title>
   </programme>
-  <programme start="20251129210000 +0000" stop="20251129224000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251129210000 +0000" stop="20251129224000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">Klub 1% 2,8 c</title>
   </programme>
-  <programme start="20251129224000 +0000" stop="20251130000000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
+  <programme start="20251129224000 +0000" stop="20251130000000 +0000" channel="ES| 1+1International ᴿᴬᵂ">
     <title lang="pl">h/f Uzbrojony i niebezpieczny</title>
   </programme>
   <programme start="20251130062500 +0100" stop="20251130063700 +0100" channel="ES| Dream work ᴿᴬᵂ">
